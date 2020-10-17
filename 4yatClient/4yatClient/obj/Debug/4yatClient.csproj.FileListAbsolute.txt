@@ -1,0 +1,15 @@
+Z:\projects\4yatClient\4yatClient\bin\Debug\4yatClient.exe.config
+Z:\projects\4yatClient\4yatClient\bin\Debug\4yatClient.exe
+Z:\projects\4yatClient\4yatClient\bin\Debug\4yatClient.pdb
+Z:\projects\4yatClient\4yatClient\obj\Debug\4yatClient.csprojAssemblyReference.cache
+Z:\projects\4yatClient\4yatClient\obj\Debug\_4yatClient.Properties.Resources.resources
+Z:\projects\4yatClient\4yatClient\obj\Debug\4yatClient.csproj.GenerateResource.cache
+Z:\projects\4yatClient\4yatClient\obj\Debug\4yatClient.exe
+Z:\projects\4yatClient\4yatClient\obj\Debug\4yatClient.pdb
+Z:\projects\4yatClient\4yatClient\obj\Debug\_4yatClient.autorisation.resources
+Z:\projects\4yatClient\4yatClient\obj\Debug\_4yatClient.registration.resources
+Z:\projects\4yatClient\4yatClient\obj\Debug\_4yatClient._4at.resources
+Z:\projects\4yatClient\4yatClient\obj\Debug\4yatClient.csproj.CoreCompileInputs.cache
+Z:\projects\4yatClient\4yatClient\obj\Debug\4yatClient.csproj.CopyComplete
+Z:\projects\4yatClient\4yatClient\bin\Debug\System.ValueTuple.dll
+Z:\projects\4yatClient\4yatClient\bin\Debug\System.ValueTuple.xml
